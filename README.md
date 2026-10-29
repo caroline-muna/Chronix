@@ -2,7 +2,7 @@
 
 Banco de dados relacional para gestão de funcionários, contratos, documentos, controle de ponto e acessos ao sistema, simulando uma organização com várias empresas, unidades e departamentos.
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 A **Chronix** é uma empresa fictícia de tecnologia para gestão de recursos humanos, com foco no controle da jornada de trabalho. O sistema substitui o controle manual e pouco confiável de ponto, reduzindo retrabalho na folha de pagamento, disputas trabalhistas e falhas de auditoria.
 
